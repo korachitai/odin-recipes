@@ -2,4 +2,17 @@
 
 * {
     background-color: lightgray;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 14px;
+    
 }
+
+a:hover {
+    background-color: bisque;
+    color: goldenrod;
+}
+
+a:visited{
+    color: darkseagreen;
+}
+
